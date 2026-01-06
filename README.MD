@@ -1,0 +1,1 @@
+This project focuses on predicting whether a person has diabetes or not using machine learning algorithms. Early detection of diabetes is crucial for proper treatment and lifestyle changes. The model is trained on a dataset containing health-related features such as glucose levels, BMI, age, blood pressure, and more.
